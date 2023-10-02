@@ -1,0 +1,1 @@
+void func1(int mas[], int N);
